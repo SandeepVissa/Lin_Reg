@@ -4,7 +4,7 @@
 ```
 conda create -p venv python=3.10
 
-conda activate (Path)/House_price/venv
+conda activate (Path)/Lin_Reg/venv
 ```
 ### Install all necessary Libraries/Dependancies
 
